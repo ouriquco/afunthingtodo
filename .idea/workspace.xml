@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b79899df-7ec5-4caf-bc50-f4338950c79d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/place_holder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/src/tests/example.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/components/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/components/header/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/pages/1.home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/pages/2.contact/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/pages/3.about/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite-project/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite-project/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite-project/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +31,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -49,6 +52,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,11 +66,24 @@
       <updated>1699321969624</updated>
       <workItem from="1699321970438" duration="193000" />
       <workItem from="1699322364119" duration="38000" />
-      <workItem from="1699325511824" duration="383000" />
+      <workItem from="1699325511824" duration="1269000" />
+      <workItem from="1699927316660" duration="4920000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/vite-project/src/components/header/Navbar.jsx</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
